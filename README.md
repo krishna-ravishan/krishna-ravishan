@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/krishna-ravishanker/krishna-ravishanker/blob/main/assets/animated-divider.svg" width="80%" />
+  <img src="animated-divider.svg" width="80%" />
 </p>
 
 ### 👨‍💻 About Me
