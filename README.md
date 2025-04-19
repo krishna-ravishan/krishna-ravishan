@@ -1,121 +1,136 @@
-<h1 align="center">Hi 👋, I'm Krishna Ravishanker</h1>
-<h3 align="center">GenAI | AIML | Full Stack | Cloud | SaaS | Software Engineer Intern @ Softura | </h3>
+<!-- README.md -->
+
+<h1 align="center">Hey there, I'm Krishna Ravishanker 👋</h1>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNmZmUwZ3R3MW54OGJvZWE1NjB4Z3FudTdxenB6NnY5cDQxa3RrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.gif" alt="Matrix Hacker Banner" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRpaHBrNzlsNHRsNTIxYjQ0Ym16Zm4xOXF6NHNhaXE2OHVpNm44MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11SIBu3s72Co8w/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=GenAI+Builder+%7C+Cloud+Native+Dev;AI+SaaS+Engineer+%7C+LangChain+%2B+Gemini+API;Learning%2C+Building%2C+Scaling...+Always!" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/krishna-ravishanker/krishna-ravishanker/blob/main/animated-divider.svg" width="80%" />
-</p>
-
-### 👨‍💻 About Me
-
-- 🎓 Final-year B.Tech IT @ Manipal University Jaipur | Dean’s List ×5 (CGPA: 8.92/10)
-- 🌐 Cloud & AI Developer Intern @ **Softura**
-- 🧠 AI SaaS Creator: **ChatWithPDF** using **Gemini API + LangChain + Pinecone**
-- 🛠️ AWS Practitioner: API Gateway, Lambda, Bedrock, S3, Cognito, CloudFormation
-- ✨ Passionate about creating scalable, impactful tech
-- 📬 Reach me: **krishnaravishankerwork@gmail.com**
-
-<p align="center">
-  <img src="https://github.com/krishna-ravishanker/krishna-ravishanker/blob/main/assets/animated-divider.svg" width="80%" />
-</p>
-
-### 💼 Experience
-
-- 🖥️ **Software Engineer Intern** @ Softura  
-  ▸ Built a serverless AI-powered blog generator using AWS  
-  ▸ Reduced debugging time with CloudWatch and improved retrieval to 100%
-
-- 💼 **Treasurer** @ 180 Degrees Consulting  
-  ▸ Managed finances, organized major events, and led a team analyzing engineering placement trends across India
-
-<p align="center">
-  <img src="https://github.com/krishna-ravishanker/krishna-ravishanker/blob/main/assets/animated-divider.svg" width="80%" />
-</p>
-
-### 🚀 Projects
-
-#### 📄 [ChatWithPDF](https://github.com/krishna-ravishanker)
-> SaaS for interacting with PDFs using Gemini API + LangChain  
-> 🔹 98% accurate responses | 🔹 Sub-2s search latency | 🔹 Scalable Vercel infra
-
-#### 🐶 [Dog Breed Identification](https://github.com/krishna-ravishan/dog-breed-identification)
-> CNN model with TensorFlow | 93.62% Accuracy | 120 breeds
-
-#### ❤️ [Heart Disease Classification](https://github.com/krishna-ravishan/project-1-classification)
-> ML model predicting heart disease risk using clinical data
-
-<p align="center">
-  <img src="https://github.com/krishna-ravishanker/krishna-ravishanker/blob/main/assets/animated-divider.svg" width="80%" />
-</p>
-
-### 🛠️ Skills
-
-**Languages:**  
-C, Python, HTML, CSS, JavaScript, MySQL
-
-**Frontend:**  
-Next.js, React.js, Tailwind CSS, DaisyUI, Shadcn, Bootstrap, SASS
-
-**Backend/DB:**  
-Firebase (NoSQL), Pinecone, MySQL
-
-**AI/ML:**  
-TensorFlow, Scikit-Learn, Pandas, NumPy, Keras, Matplotlib, LangChain
-
-**Cloud/Tools:**  
-AWS (Lambda, S3, API Gateway, Bedrock, Cognito), Git, GitHub, Postman, Vercel, REST APIs
-
-<p align="center">
-  <img src="https://github.com/krishna-ravishanker/krishna-ravishanker/blob/main/assets/animated-divider.svg" width="80%" />
-</p>
-
-### 🏆 Achievements
-
-- 🥇 1st Place – Epiphany Ideathon (IEEE)
-- 🥇 1st Place – 180DC Internal Case Comp
-- 🥉 3rd Place – Mini Hacks 3.0 (ACM)
-- 🧠 Dean’s Honor List ×5
-
-<p align="center">
-  <img src="https://github.com/krishna-ravishanker/krishna-ravishanker/blob/main/assets/animated-divider.svg" width="80%" />
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna-ravishanker&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-ravishanker&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishna-ravishanker&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/graph.svg" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/krishna-ravishanker/krishna-ravishanker/blob/main/assets/animated-divider.svg" width="80%" />
-</p>
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:krishnaravishankerwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/krishnaravishanker"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://krishnarportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=vercel&logoColor=white" /></a>
+  🚀 Engineer | 🤖 AI Explorer | 🎨 Creator | 😂 Meme-Lover | 🧠 Lifelong Learner
 </p>
 
 ---
 
-> ⚡ *“Using GenAI & Cloud to solve real-world problems. Learning, building, scaling — always.”*
+## 🧠 About Me
+
+- 🎓 BTech in Information Technology @ Manipal University Jaipur  
+- 🏆 Dean’s List x5 | Cumulative GPA: 8.92  
+- 💼 Software Engineering Intern @ Softura  
+- 💰 Former Treasurer @ 180 Degrees Consulting  
+- 🤖 Passionate about GenAI, LLMs, Cloud-native AI apps  
+- ⚡ I love building magical things with scalable code and caffeine ☕  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
+</p>
+
+---
+
+## 🔧 Tech Stack & Tools
+
+Languages:        [Python, C, JavaScript, HTML, CSS, SQL]
+Frontend:         [Next.js, React.js, Tailwind CSS, DaisyUI, Shadcn, Bootstrap]
+Backend:          [Firebase, MySQL, REST APIs, AWS Lambda, API Gateway]
+AI/ML:            [LangChain, Gemini API, TensorFlow, Scikit-learn, Keras]
+Cloud & DevOps:   [Git/GitHub, Vercel, S3, CloudFormation, Postman, Cognito]
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=36BCF7&width=435&lines=%F0%9F%9A%80+whoami+%7C+AI+Dev+%2F+GenAI+Explorer+%2F+Fullstack+Engineer;BTech+IT+%40+Manipal+University+Jaipur;Cloud+%2B+LLM+%2B+LangChain+%2B+TensorFlow+%3D+%E2%9C%A8" />
+</p>
+
+<h2>🚀 Featured Projects</h2>
+
+<h3>📄 ChatWithPDF - GenAI SaaS</h3>
+<ul>
+  <li> Built a real-time document Q&A app using Google Gemini, LangChain & Pinecone</li>
+  <li> 98% accuracy with sub-2 second response times</li>
+  <li> Optimized with Firebase + Vercel for blazing speed</li>
+</ul>
+
+<h3>🐶 Dog Breed Identifier</h3>
+<ul>
+  <li> Identifies 120 breeds using TensorFlow & Keras</li>
+  <li> 93.6% model accuracy trained on 10,000+ images</li>
+  <li> Complete preprocessing pipeline, real-time inference</li>
+</ul>
+
+<h3>🩺 Heart Disease Classifier</h3>
+<ul>
+  <li> Predictive ML model for cardiac risk</li>
+  <li> Accuracy meets healthcare insights</li>
+  <li> Built with pandas, sklearn, and matplotlib</li>
+</ul>
+
+<h3>🧠 AI Blog Generator (AWS Bedrock)</h3>
+<ul>
+  <li> Deployed serverless GenAI system using Lambda, API Gateway, S3, Cognito</li>
+  <li> Automated content creation & timestamped storage</li>
+  <li> Debugged IAM issues in &lt;2 hrs using CloudWatch</li>
+</ul>
+
+---
+
+<h2>🏆 Achievements</h2>
+<ul>
+  <li>🥇 1st Place – IEEE Epiphany Ideathon</li>
+  <li>🥇 1st Place – 180DC Case Competition</li>
+  <li>🥉 3rd Place – ACM Mini Hacks 3.0</li>
+  <li>🎓 Dean's List for Academic Excellence (x5)</li>
+</ul>
+
+---
+
+<h2>📚 Certifications & Courses</h2>
+<ul>
+  <li>💡 Generative AI with LangChain & HuggingFace – Krish Naik</li>
+  <li>📊 ML & Data Science Bootcamp – ZeroToMastery</li>
+  <li>🧮 DSA in Python – Elshad Karimov</li>
+  <li>💻 Software Engineering – NPTEL</li>
+</ul>
+
+---
+
+<h2>🤓 Fun Facts</h2>
+
+<p>I need <strong>this many</strong> monitors for my tabs:</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/1iUZiXocraqiP7zy/giphy.gif" width="300" />
+</p>
+
+<ul>
+  <li>🕶️ I debug like a ninja but break stuff like Joey</li>
+  <li>🧠 I once made an LLM say "You're awesome!"... accidentally</li>
+</ul>
+
+---
+
+<h2>📬 Let's Connect!</h2>
+<ul>
+  <li>🧑‍💻 GitHub: <a href="https://github.com/krishna-ravishanker">krishna-ravishanker</a></li>
+  <li>💼 LinkedIn: <a href="https://linkedin.com/in/krishnaravishanker">krishnaravishanker</a></li>
+  <li>🌐 Portfolio: <a href="https://krishnarportfolio.netlify.app">krishnarportfolio.netlify.app</a></li>
+  <li>📧 Email: <a href="mailto:krishnaravishankerwork@gmail.com">krishnaravishankerwork@gmail.com</a></li>
+</ul>
+
+---
+
+<h2>📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna-ravishanker&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-ravishanker&theme=tokyonight" width="400"/>
+</p>
+
+---
+
+<h2>🧠 Words I Live By</h2>
+
+<blockquote>
+  “Code. Coffee. Crash. Repeat.”
+</blockquote>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300"/>
+</p>
