@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krishna Ravishanker</h1>
-<h3 align="center">GenAI | Cloud | SaaS | Software Engineer Intern @ Softura | Growth & Strategy Analyst @ TechCurators</h3>
+<h3 align="center">GenAI | AIML | Full Stack | Cloud | SaaS | Software Engineer Intern @ Softura | </h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNmZmUwZ3R3MW54OGJvZWE1NjB4Z3FudTdxenB6NnY5cDQxa3RrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.gif" alt="Matrix Duck Banner" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNmZmUwZ3R3MW54OGJvZWE1NjB4Z3FudTdxenB6NnY5cDQxa3RrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.gif" alt="Matrix Hacker Banner" width="100%" />
 </p>
 
 <p align="center">
