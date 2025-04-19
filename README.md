@@ -29,11 +29,11 @@
 
 ## 🔧 Tech Stack & Tools
 
-Languages:        [Python, C, JavaScript, HTML, CSS, SQL]
-Frontend:         [Next.js, React.js, Tailwind CSS, DaisyUI, Shadcn, Bootstrap]
-Backend:          [Firebase, MySQL, REST APIs, AWS Lambda, API Gateway]
-AI/ML:            [LangChain, Gemini API, TensorFlow, Scikit-learn, Keras]
-Cloud & DevOps:   [Git/GitHub, Vercel, S3, CloudFormation, Postman, Cognito]
+- Languages:        [Python, C, JavaScript, HTML, CSS, SQL]
+- Frontend:         [Next.js, React.js, Tailwind CSS, DaisyUI, Shadcn, Bootstrap]
+- Backend:          [Firebase, MySQL, REST APIs, AWS Lambda, API Gateway]
+- AI/ML:            [LangChain, Gemini API, TensorFlow, Scikit-learn, Keras]
+- Cloud & DevOps:   [Git/GitHub, Vercel, S3, CloudFormation, Postman, Cognito]
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=36BCF7&width=435&lines=%F0%9F%9A%80+whoami+%7C+AI+Dev+%2F+GenAI+Explorer+%2F+Fullstack+Engineer;BTech+IT+%40+Manipal+University+Jaipur;Cloud+%2B+LLM+%2B+LangChain+%2B+TensorFlow+%3D+%E2%9C%A8" />
@@ -91,18 +91,13 @@ Cloud & DevOps:   [Git/GitHub, Vercel, S3, CloudFormation, Postman, Cognito]
 
 ---
 
-<h2>🤓 Fun Facts</h2>
+<h2>Hehe</h2>
 
 <p>I need <strong>this many</strong> monitors for my tabs:</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/1iUZiXocraqiP7zy/giphy.gif" width="300" />
 </p>
-
-<ul>
-  <li>🕶️ I debug like a ninja but break stuff like Joey</li>
-  <li>🧠 I once made an LLM say "You're awesome!"... accidentally</li>
-</ul>
 
 ---
 
@@ -132,5 +127,5 @@ Cloud & DevOps:   [Git/GitHub, Vercel, S3, CloudFormation, Postman, Cognito]
 </blockquote>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ2bWdobGR5YjRuY2E4Z3NtNnJmMzZodGVvdGltYXVtb3hkNGFlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif" width="300"/>
 </p>
