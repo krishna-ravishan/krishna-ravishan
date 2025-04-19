@@ -1,13 +1,13 @@
 <!-- README.md -->
 
-<h1 align="center">Hey there, I'm Krishna Ravishanker 👋</h1>
+<h1 align="center">Hello there, I'm Krishna Ravishanker 👋</h1>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRpaHBrNzlsNHRsNTIxYjQ0Ym16Zm4xOXF6NHNhaXE2OHVpNm44MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11SIBu3s72Co8w/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-  🚀 Engineer | 🤖 AI Explorer | 🎨 Creator | 😂 Meme-Lover | 🧠 Lifelong Learner
+  🚀 Software Engineer | 🤖 AI/ML Engineer | 🧠 Lifelong Learner 
 </p>
 
 ---
